@@ -1,6 +1,8 @@
 ### Hi there 👋
 <h3>🌱 I’m currently learning Laravel & NodeJS</h3>
-<button>Go</button>
+You can reach me on
+<a href="https://www.linkedin.com/in/%C3%BCmit-ulusoy/">Linkedin</a>
+<a href="https://umitulusoy.com/">My website</a>
 
 
 

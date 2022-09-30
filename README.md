@@ -1,5 +1,5 @@
 ### Hi there 👋
-###🌱 I’m currently learning Laravel & NodeJS
+<h3>🌱 I’m currently learning Laravel & NodeJS</h3>
 
 <!--
 **Umit-Ulusoy/Umit-Ulusoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

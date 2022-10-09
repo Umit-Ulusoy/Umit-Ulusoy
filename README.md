@@ -1,7 +1,7 @@
 ### Hi there 👋
-<h3>🌱 I’m currently learning Laravel & NodeJS</h3>
+### 🌱 I’m currently learning Laravel & NodeJS
 You can reach me on 
-[Linkedin](https://www.linkedin.com/in/%C3%BCmit-ulusoy/)
+[Linkedin](https://www.linkedin.com/)
 
 
 

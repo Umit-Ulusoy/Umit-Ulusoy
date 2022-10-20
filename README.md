@@ -12,7 +12,7 @@
 
 ## Languages and Tools:
 
-<code><img height="30" src="https://img.shields.io/badge/php%20%20-787cb4.svg?&style=for-the-badge&logo=php&logoColor=white"></code>
+<code><img alt="PHP" height="30" src="https://img.shields.io/badge/php%20%20-787cb4.svg?&style=for-the-badge&logo=php&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/laravel%20%20-white.svg?&style=for-the-badge&logo=laravel&logoColor=ef3b2d"></code>
 <code><img height="30" src="https://img.shields.io/badge/mysql%20%20-00618a.svg?&style=for-the-badge&logo=mysql&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/javascript%20-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"></code>

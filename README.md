@@ -1,4 +1,4 @@
-<h2 align="center"> Hi here, I'm Ümit :wave:</h2>
+<h2 align="center"> Hi there, I'm Ümit :wave:</h2>
 
 <h3>My Personal accounts:</h3>
 <p align="left">
